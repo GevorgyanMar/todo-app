@@ -1,0 +1,9 @@
+.view{
+    display:  flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    padding: 16px 16px;
+}
